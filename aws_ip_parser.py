@@ -26,4 +26,4 @@ if __name__ == "__main__":
                 print("Whoops! No JSON data.")
                    
     else:
-        print("Whoops. You done fucked up.")
+        print("Whoops. You done messed up.")
